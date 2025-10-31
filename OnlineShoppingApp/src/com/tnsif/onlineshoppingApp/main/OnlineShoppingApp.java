@@ -1,8 +1,9 @@
-package main;
+package com.tnsif.onlineshoppingApp.main;
 
 import java.util.*;
-import entity.*;
-import service.*;
+
+import com.tnsif.onlineshoppingApp.entity.*;
+import com.tnsif.onlineshoppingApp.service.*;
 
 public class OnlineShoppingApp {
     public static void main(String[] args) {

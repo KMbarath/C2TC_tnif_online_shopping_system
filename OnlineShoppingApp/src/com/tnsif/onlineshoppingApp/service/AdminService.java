@@ -1,8 +1,9 @@
-package service;
+package com.tnsif.onlineshoppingApp.service;
 
 import java.util.ArrayList;
 import java.util.List;
-import entity.Admin;
+
+import com.tnsif.onlineshoppingApp.entity.Admin;
 
 public class AdminService {
     private List<Admin> admins = new ArrayList<>();

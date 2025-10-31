@@ -1,8 +1,9 @@
-package service;
+package com.tnsif.onlineshoppingApp.service;
 
 import java.util.ArrayList;
 import java.util.List;
-import entity.Product;
+
+import com.tnsif.onlineshoppingApp.entity.Product;
 
 public class ProductService {
     private List<Product> products = new ArrayList<>();

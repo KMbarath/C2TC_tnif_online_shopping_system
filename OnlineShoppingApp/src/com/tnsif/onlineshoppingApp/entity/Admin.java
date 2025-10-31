@@ -1,4 +1,4 @@
-package entity;
+package com.tnsif.onlineshoppingApp.entity;
 
 public class Admin extends User {
     public Admin(int userId, String username, String email) {

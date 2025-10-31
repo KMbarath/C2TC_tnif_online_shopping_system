@@ -1,4 +1,4 @@
-package entity;
+package com.tnsif.onlineshoppingApp.entity;
 
 import java.util.HashMap;
 import java.util.Map;
